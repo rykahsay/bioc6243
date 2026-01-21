@@ -1,9 +1,14 @@
 ### Working with Files & Directories
 
 ```
-xxxxx
+$ command 1
+$ command 2
 ```
-dffadsfsda f
+
+The first command does xyz, dfafas dfdafasfaasf
+
+
+
 ```
 $ pwd
 $ mkdir ~/mybioc6243
