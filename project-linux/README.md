@@ -1,6 +1,10 @@
 ### Working with Files & Directories
 
 ```
+xxxxx
+```
+dffadsfsda f
+```
 $ pwd
 $ mkdir ~/mybioc6243
 $ mkdir ~/mybioc6243/project-linux
