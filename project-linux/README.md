@@ -1,15 +1,6 @@
 ### Working with Files & Directories
 
 ```
-$ command 1
-$ command 2
-```
-
-The first command does xyz, dfafas dfdafasfaasf
-
-
-
-```
 $ pwd
 $ mkdir ~/mybioc6243
 $ mkdir ~/mybioc6243/project-linux
@@ -20,4 +11,4 @@ $ ls -ltr
 $ cp file.txt file_copy.txt
 $ ls -ltr
 ```
-Here is the text to describe each command
+The pwd command shows me my current location. The second command, "mkdir" creates the folder "mybioc6243" under my home direcgtory (~).  So on ...
