@@ -1,2 +1,2 @@
-# bioc6243
+# Project Genomics
 Repository for BIOC6243
